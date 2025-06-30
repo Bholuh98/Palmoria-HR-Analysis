@@ -34,6 +34,13 @@ In the initial phase of data cleaning and preparations, I performed the followin
 
 
 
+
+
+
+
+
+
+
 ### Results/findings 
 - Palmora Group  has more male in kaduna , Abuja and Lagos.
 - They also have more male in production, legal, support, sales , training , accounting and marketing department  while human resources , Services, business development, engineering, research and development  department have more female.
