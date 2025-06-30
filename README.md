@@ -31,8 +31,9 @@ In the initial phase of data cleaning and preparations, I performed the followin
 
 
 ### Data Analysis
-
-
+![1751290361056-a7cd34c2-3c00-44c4-a5cb-5cfe50148c40_1](https://github.com/user-attachments/assets/5783dd3b-2791-49a6-86c5-6e5cfc05262e)
+![1751290361056-a7cd34c2-3c00-44c4-a5cb-5cfe50148c40_2](https://github.com/user-attachments/assets/03c9422c-14e1-4657-8d73-73defced3156)
+![1751290361056-a7cd34c2-3c00-44c4-a5cb-5cfe50148c40_3](https://github.com/user-attachments/assets/69e985c1-14b0-4f28-b6b0-14d8ef0247bd)
 
 
 
