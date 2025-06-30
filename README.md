@@ -30,6 +30,39 @@ In the initial phase of data cleaning and preparations, I performed the followin
 8.	Total amount to be paid out per region and company-wide
 
 
+### Data Analysis
+
+
+
+### Results/findings 
+- Palmora Group  has more male in kaduna , Abuja and Lagos.
+- They also have more male in production, legal, support, sales , training , accounting and marketing department  while human resources , Services, business development, engineering, research and development  department have more female.
+- Female were paid $31.81m while male were paid 34.74m. This implies that there is a gender gap  in the company
+- Kaduna has the highest gender pay gap
+- Production, legal , support, human resources , sales and accounting department underpay their female  staffs compared to male staffs while business development , services, engineering,  marketing , research and development under pay their male staffs compared to the female staffs
+- The minimum salary payment for palmoria company is $28,130. This means that the company does not meet up with the minimum requirement of $90,000 pay structure.
+- Most of the employees earn $50,000 and above. While only few earn within $20,000-30,000
+- Kaduna staffs earn better followed by Abuja and Lagos.
+
+### Recommendations 
+- Conduct a thorough role-by-role salary benchmarking to identify unjustified differences by gender.
+- Establish a company-wide minimum salary benchmark of at least $90,000 to meet up with the new regulations 
+- Set diversity hiring goals for male-dominated departments (Production, Legal, Sales) and regions
+- Adjust compensation where women are underpaid for equivalent roles
+- Implement a standardized pay band system across all regions.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
