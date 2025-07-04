@@ -1,5 +1,5 @@
 # Palmoria-HR-Analysis
-My first project Assignment from my data Analysis clas with Incubator hub
+My first project Assignment from my data Analysis class with Incubator hub
 
 ## Project topic: Gender issue Analysis
  
